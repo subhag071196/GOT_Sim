@@ -1,2 +1,2 @@
 # GOT_Sim
-This project creates new dialogues between GOT characters.
+This project creates new dialogues between GOT characters using markov chains.
