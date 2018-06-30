@@ -1,2 +1,2 @@
 # GOT_Sim
-I started learning markov chains and I will be uploading the files as I progress.
+This project creates new dialogues between GOT characters.
